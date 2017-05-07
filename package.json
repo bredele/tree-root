@@ -1,0 +1,30 @@
+{
+  "name": "tree-root",
+  "version": "1.0.0",
+  "description": "Return the root of a node in a tree of nodes",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/tree-root.git"
+  },
+  "keywords": [
+    "tree",
+    "root",
+    "graph"
+  ],
+  "author": "Olvier <olivier.wietrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/tree-root/issues"
+  },
+  "homepage": "https://github.com/bredele/tree-root#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
